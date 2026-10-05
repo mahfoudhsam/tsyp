@@ -1,0 +1,19 @@
+{
+ "trail_first": 70.625,
+ "direct_first": 39.3125,
+ "trail_first_med": 50.25,
+ "direct_first_med": 39.0,
+ "trail_dist": 841.0,
+ "direct_dist": 772.875,
+ "dist_pct": 8,
+ "trail_busy": 699.75,
+ "direct_busy": 581.5,
+ "busy_pct": 17,
+ "trail_end": 632.5,
+ "direct_end": 576.125,
+ "worse": [
+  6.0,
+  7.2
+ ],
+ "n": 8
+}

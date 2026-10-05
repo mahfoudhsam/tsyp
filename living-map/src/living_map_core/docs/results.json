@@ -1,0 +1,511 @@
+{
+ "baseline_seeds": {
+  "7": {
+   "first_person_s": 39.5,
+   "first_person_end_to_end_s": 410.5,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 85,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 40,
+   "repeaters": 25,
+   "delivery": "40/40",
+   "rejected_packets": 1,
+   "pos_err_m": 0.25,
+   "pos_err_max_m": 0.44,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 575,
+   "final": true,
+   "orders": 7,
+   "order_updates": 11,
+   "preempts": 0,
+   "writer_first_reachable_person_s": 363.0,
+   "writer_done_s": 524.5
+  },
+  "3": {
+   "first_person_s": 40.5,
+   "first_person_end_to_end_s": 411.5,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 85,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 40,
+   "repeaters": 25,
+   "delivery": "38/154",
+   "rejected_packets": 1,
+   "pos_err_m": 0.3,
+   "pos_err_max_m": 0.49,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 575,
+   "final": true,
+   "orders": 7,
+   "order_updates": 10,
+   "preempts": 0,
+   "writer_first_reachable_person_s": 363.0,
+   "writer_done_s": 524.5
+  },
+  "11": {
+   "first_person_s": 39.5,
+   "first_person_end_to_end_s": 410.5,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 85,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 42,
+   "repeaters": 27,
+   "delivery": "42/42",
+   "rejected_packets": 1,
+   "pos_err_m": 0.32,
+   "pos_err_max_m": 0.64,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 572,
+   "final": true,
+   "orders": 7,
+   "order_updates": 11,
+   "preempts": 0,
+   "writer_first_reachable_person_s": 363.0,
+   "writer_done_s": 524.5
+  },
+  "1": {
+   "first_person_s": 39.0,
+   "first_person_end_to_end_s": 410.0,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 86,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 39,
+   "repeaters": 24,
+   "delivery": "37/155",
+   "rejected_packets": 1,
+   "pos_err_m": 0.34,
+   "pos_err_max_m": 0.55,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 578,
+   "final": true,
+   "orders": 7,
+   "order_updates": 10,
+   "preempts": 0,
+   "writer_first_reachable_person_s": 363.0,
+   "writer_done_s": 524.5
+  },
+  "2": {
+   "first_person_s": 39.0,
+   "first_person_end_to_end_s": 411.0,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 86,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 40,
+   "repeaters": 25,
+   "delivery": "38/155",
+   "rejected_packets": 1,
+   "pos_err_m": 0.34,
+   "pos_err_max_m": 0.63,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 576,
+   "final": true,
+   "orders": 7,
+   "order_updates": 11,
+   "preempts": 0,
+   "writer_first_reachable_person_s": 364.0,
+   "writer_done_s": 525.5
+  }
+ },
+ "fault_beacon_destroyed": {
+  "first_person_s": 39.5,
+  "first_person_end_to_end_s": 410.5,
+  "blind_first_person_s": 269.5,
+  "gain_pct": 85,
+  "fires_out": "4/4",
+  "rescued": "4/5",
+  "beacons": 40,
+  "repeaters": 25,
+  "delivery": "41/41",
+  "rejected_packets": 1,
+  "pos_err_m": 0.25,
+  "pos_err_max_m": 0.44,
+  "skipped": [
+   "BCN_013"
+  ],
+  "steam_rejected": 0,
+  "end_s": 575,
+  "final": true,
+  "orders": 7,
+  "order_updates": 11,
+  "preempts": 0
+ },
+ "fault_writer_lost": {
+  "first_person_s": 39.5,
+  "first_person_end_to_end_s": 410.5,
+  "blind_first_person_s": 269.5,
+  "gain_pct": 85,
+  "fires_out": "2/4",
+  "rescued": "3/5",
+  "beacons": 37,
+  "repeaters": 25,
+  "delivery": "37/37",
+  "rejected_packets": 1,
+  "pos_err_m": 0.24,
+  "pos_err_max_m": 0.4,
+  "skipped": [
+   "BCN_013"
+  ],
+  "steam_rejected": 0,
+  "end_s": 450,
+  "final": true,
+  "orders": 5,
+  "order_updates": 5,
+  "preempts": 0
+ },
+ "uplink_immediate": {
+  "uplink_messages": 40,
+  "reasons": {
+   "IMMEDIATE": 40
+  },
+  "delay_by_priority": {
+   "P0": {
+    "n": 3,
+    "mean_s": 0.3,
+    "max_s": 0.5
+   },
+   "P1": {
+    "n": 5,
+    "mean_s": 0.2,
+    "max_s": 0.5
+   },
+   "P2": {
+    "n": 2,
+    "mean_s": 0.2,
+    "max_s": 0.5
+   },
+   "P3": {
+    "n": 30,
+    "mean_s": 0.1,
+    "max_s": 0.5
+   }
+  },
+  "first_person_s": 39.5,
+  "first_person_end_to_end_s": 410.5,
+  "blind_first_person_s": 269.5,
+  "gain_pct": 85,
+  "fires_out": "4/4",
+  "rescued": "4/5",
+  "beacons": 40,
+  "repeaters": 25,
+  "delivery": "40/40",
+  "rejected_packets": 1,
+  "pos_err_m": 0.25,
+  "pos_err_max_m": 0.44,
+  "skipped": [
+   "BCN_013"
+  ],
+  "steam_rejected": 0,
+  "end_s": 575,
+  "final": true,
+  "orders": 7,
+  "order_updates": 11,
+  "preempts": 0
+ },
+ "uplink_batched": {
+  "uplink_messages": 11,
+  "reasons": {
+   "P0_IMMEDIATE": 5,
+   "ADAPTIVE_SIZE": 3,
+   "ADAPTIVE_SCORE": 2,
+   "BATCH_120S": 1
+  },
+  "delay_by_priority": {
+   "P0": {
+    "n": 3,
+    "mean_s": 0.3,
+    "max_s": 0.5
+   },
+   "P1": {
+    "n": 5,
+    "mean_s": 27.2,
+    "max_s": 96.5
+   },
+   "P2": {
+    "n": 2,
+    "mean_s": 48.5,
+    "max_s": 75.0
+   },
+   "P3": {
+    "n": 30,
+    "mean_s": 38.3,
+    "max_s": 109.5
+   }
+  },
+  "first_person_s": 39.5,
+  "first_person_end_to_end_s": 410.5,
+  "blind_first_person_s": 269.5,
+  "gain_pct": 85,
+  "fires_out": "4/4",
+  "rescued": "4/5",
+  "beacons": 40,
+  "repeaters": 25,
+  "delivery": "40/40",
+  "rejected_packets": 1,
+  "pos_err_m": 0.25,
+  "pos_err_max_m": 0.44,
+  "skipped": [
+   "BCN_013"
+  ],
+  "steam_rejected": 0,
+  "end_s": 603,
+  "final": true,
+  "orders": 6,
+  "order_updates": 12,
+  "preempts": 0
+ },
+ "proto_arena_seeds": {
+  "7": {
+   "first_person_s": 30.5,
+   "first_person_end_to_end_s": 51.5,
+   "blind_first_person_s": 9.0,
+   "gain_pct": -239,
+   "fires_out": "1/1",
+   "rescued": "3/4",
+   "beacons": 7,
+   "repeaters": 0,
+   "delivery": "7/7",
+   "rejected_packets": 1,
+   "pos_err_m": 0.21,
+   "pos_err_max_m": 0.45,
+   "skipped": [
+    "BCN_006"
+   ],
+   "steam_rejected": 1,
+   "end_s": 74,
+   "final": true,
+   "orders": 4,
+   "order_updates": 8,
+   "preempts": 0,
+   "event_types": [
+    "ANIMAL",
+    "DEBRIS",
+    "FIRE",
+    "GAS",
+    "HUMAN"
+   ]
+  },
+  "3": {
+   "first_person_s": 7.0,
+   "first_person_end_to_end_s": null,
+   "blind_first_person_s": 9.0,
+   "gain_pct": 22,
+   "fires_out": "1/1",
+   "rescued": "3/4",
+   "beacons": 7,
+   "repeaters": 0,
+   "delivery": "7/7",
+   "rejected_packets": 1,
+   "pos_err_m": 0.23,
+   "pos_err_max_m": 0.41,
+   "skipped": [
+    "BCN_007"
+   ],
+   "steam_rejected": 2,
+   "end_s": 78,
+   "final": true,
+   "orders": 4,
+   "order_updates": 7,
+   "preempts": 0,
+   "event_types": [
+    "ANIMAL",
+    "DEBRIS",
+    "FIRE",
+    "GAS",
+    "HUMAN"
+   ]
+  },
+  "11": {
+   "first_person_s": null,
+   "first_person_end_to_end_s": null,
+   "blind_first_person_s": 9.0,
+   "gain_pct": null,
+   "fires_out": "1/1",
+   "rescued": "3/4",
+   "beacons": 7,
+   "repeaters": 1,
+   "delivery": "7/7",
+   "rejected_packets": 1,
+   "pos_err_m": 0.22,
+   "pos_err_max_m": 0.4,
+   "skipped": [],
+   "steam_rejected": 1,
+   "end_s": 158,
+   "final": true,
+   "orders": 4,
+   "order_updates": 5,
+   "preempts": 0,
+   "event_types": [
+    "ANIMAL",
+    "FIRE",
+    "GAS",
+    "HUMAN"
+   ]
+  },
+  "1": {
+   "first_person_s": null,
+   "first_person_end_to_end_s": null,
+   "blind_first_person_s": 9.0,
+   "gain_pct": null,
+   "fires_out": "1/1",
+   "rescued": "3/4",
+   "beacons": 6,
+   "repeaters": 0,
+   "delivery": "6/6",
+   "rejected_packets": 1,
+   "pos_err_m": 0.18,
+   "pos_err_max_m": 0.29,
+   "skipped": [],
+   "steam_rejected": 2,
+   "end_s": 141,
+   "final": true,
+   "orders": 5,
+   "order_updates": 8,
+   "preempts": 0,
+   "event_types": [
+    "ANIMAL",
+    "FIRE",
+    "GAS",
+    "HUMAN"
+   ]
+  },
+  "2": {
+   "first_person_s": 9.5,
+   "first_person_end_to_end_s": null,
+   "blind_first_person_s": 9.0,
+   "gain_pct": -6,
+   "fires_out": "1/1",
+   "rescued": "3/4",
+   "beacons": 9,
+   "repeaters": 2,
+   "delivery": "9/9",
+   "rejected_packets": 1,
+   "pos_err_m": 0.31,
+   "pos_err_max_m": 0.5,
+   "skipped": [
+    "BCN_005"
+   ],
+   "steam_rejected": 2,
+   "end_s": 62,
+   "final": true,
+   "orders": 4,
+   "order_updates": 6,
+   "preempts": 0,
+   "event_types": [
+    "ANIMAL",
+    "DEBRIS",
+    "FIRE",
+    "GAS",
+    "HUMAN"
+   ]
+  }
+ },
+ "rf_stress": {
+  "12 dB/wall": {
+   "first_person_s": 39.5,
+   "first_person_end_to_end_s": 410.5,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 85,
+   "fires_out": "4/4",
+   "rescued": "4/5",
+   "beacons": 40,
+   "repeaters": 25,
+   "delivery": "40/40",
+   "rejected_packets": 1,
+   "pos_err_m": 0.25,
+   "pos_err_max_m": 0.44,
+   "skipped": [
+    "BCN_013"
+   ],
+   "steam_rejected": 0,
+   "end_s": 575,
+   "final": true,
+   "orders": 7,
+   "order_updates": 11,
+   "preempts": 0
+  },
+  "18 dB/wall": {
+   "first_person_s": 39.5,
+   "first_person_end_to_end_s": 410.5,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 85,
+   "fires_out": "3/4",
+   "rescued": "4/5",
+   "beacons": 45,
+   "repeaters": 31,
+   "delivery": "45/45",
+   "rejected_packets": 1,
+   "pos_err_m": 0.29,
+   "pos_err_max_m": 0.44,
+   "skipped": [
+    "BCN_016"
+   ],
+   "steam_rejected": 0,
+   "end_s": 561,
+   "final": true,
+   "orders": 7,
+   "order_updates": 8,
+   "preempts": 0
+  },
+  "24 dB/wall": {
+   "first_person_s": 39.0,
+   "first_person_end_to_end_s": 422.0,
+   "blind_first_person_s": 269.5,
+   "gain_pct": 86,
+   "fires_out": "1/4",
+   "rescued": "4/5",
+   "beacons": 46,
+   "repeaters": 34,
+   "delivery": "46/70",
+   "rejected_packets": 1,
+   "pos_err_m": 0.33,
+   "pos_err_max_m": 0.5,
+   "skipped": [
+    "BCN_017"
+   ],
+   "steam_rejected": 0,
+   "end_s": 571,
+   "final": true,
+   "orders": 6,
+   "order_updates": 2,
+   "preempts": 0
+  },
+  "30 dB/wall": {
+   "first_person_s": null,
+   "first_person_end_to_end_s": null,
+   "blind_first_person_s": null,
+   "gain_pct": null,
+   "fires_out": "0/4",
+   "rescued": "0/5",
+   "beacons": 46,
+   "repeaters": 34,
+   "delivery": "0/11361",
+   "rejected_packets": 1,
+   "pos_err_m": null,
+   "pos_err_max_m": null,
+   "skipped": [],
+   "steam_rejected": 0,
+   "end_s": 1400,
+   "final": false
+  }
+ }
+}
